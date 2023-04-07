@@ -1,5 +1,21 @@
 # Power-BI _ Adventure Works Data Analysis
 
+THE SITUATION
+You’ve just been hired by Adventure Works Cycles **, a global manufacturing company, to design and deliver an end to end business intelligence solution from scratch!
+
+THE BRIEF
+Your client needs a way to:
+track KPIs sales , revenue , profit , returns ), compare regional performance , analyze product level trends and forecasts , and identify high value customers
+All you’ve been given is a folder of raw csv files , containing information about transactions,returns, products, customers and territories
+
+THE OBJECTIVE
+Connect and transform the raw data
+Build a relational data model
+Create new calculated columns and DAX measures
+Design an interactive report to analyze and visualize the data
+
+
+
 In the executive summary report, we have created a birds eye view of the entire data.
 We have answered questions like:
 1. What are the total order counts by subcategory?
